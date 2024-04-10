@@ -1,0 +1,302 @@
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 1
+Using CUDA
+Early stopping!
+Loading 316th epoch
+	[Classification] Macro-F1_mean: 0.5483 var: 0.0070  Micro-F1_mean: 0.5483 var: 0.0072 auc 0.7370
+	[Classification] Macro-F1_mean: 0.5655 var: 0.0036  Micro-F1_mean: 0.5654 var: 0.0049 auc 0.7487
+	[Classification] Macro-F1_mean: 0.5763 var: 0.0037  Micro-F1_mean: 0.5756 var: 0.0038 auc 0.7557
+Total time:  2428 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 2
+Using CUDA
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 3
+Using CUDA
+Early stopping!
+Loading 168th epoch
+	[Classification] Macro-F1_mean: 0.4640 var: 0.0072  Micro-F1_mean: 0.4688 var: 0.0109 auc 0.6516
+	[Classification] Macro-F1_mean: 0.4859 var: 0.0058  Micro-F1_mean: 0.4964 var: 0.0067 auc 0.6938
+	[Classification] Macro-F1_mean: 0.4871 var: 0.0060  Micro-F1_mean: 0.4985 var: 0.0066 auc 0.6884
+Total time:  1459 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 4
+Using CUDA
+Early stopping!
+Loading 170th epoch
+	[Classification] Macro-F1_mean: 0.4913 var: 0.0057  Micro-F1_mean: 0.5006 var: 0.0061 auc 0.6827
+	[Classification] Macro-F1_mean: 0.5091 var: 0.0080  Micro-F1_mean: 0.5212 var: 0.0074 auc 0.7046
+	[Classification] Macro-F1_mean: 0.5070 var: 0.0050  Micro-F1_mean: 0.5183 var: 0.0045 auc 0.7040
+Total time:  1554 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 5
+Using CUDA
+Early stopping!
+Loading 105th epoch
+	[Classification] Macro-F1_mean: 0.4908 var: 0.0061  Micro-F1_mean: 0.4976 var: 0.0075 auc 0.6809
+	[Classification] Macro-F1_mean: 0.5049 var: 0.0061  Micro-F1_mean: 0.5108 var: 0.0055 auc 0.7032
+	[Classification] Macro-F1_mean: 0.5000 var: 0.0079  Micro-F1_mean: 0.5086 var: 0.0058 auc 0.7068
+Total time:  1057 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 6
+Using CUDA
+Early stopping!
+Loading 130th epoch
+	[Classification] Macro-F1_mean: 0.4800 var: 0.0077  Micro-F1_mean: 0.4907 var: 0.0063 auc 0.6846
+	[Classification] Macro-F1_mean: 0.5160 var: 0.0034  Micro-F1_mean: 0.5188 var: 0.0038 auc 0.7193
+	[Classification] Macro-F1_mean: 0.5204 var: 0.0071  Micro-F1_mean: 0.5260 var: 0.0053 auc 0.7213
+Total time:  1231 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 7
+Using CUDA
+Early stopping!
+Loading 126th epoch
+	[Classification] Macro-F1_mean: 0.4970 var: 0.0080  Micro-F1_mean: 0.5068 var: 0.0058 auc 0.7018
+	[Classification] Macro-F1_mean: 0.5322 var: 0.0049  Micro-F1_mean: 0.5331 var: 0.0058 auc 0.7292
+	[Classification] Macro-F1_mean: 0.5434 var: 0.0040  Micro-F1_mean: 0.5467 var: 0.0038 auc 0.7323
+Total time:  1176 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 8
+Using CUDA
+Early stopping!
+Loading 118th epoch
+	[Classification] Macro-F1_mean: 0.5077 var: 0.0077  Micro-F1_mean: 0.5137 var: 0.0077 auc 0.7009
+	[Classification] Macro-F1_mean: 0.5456 var: 0.0085  Micro-F1_mean: 0.5479 var: 0.0087 auc 0.7375
+	[Classification] Macro-F1_mean: 0.5604 var: 0.0035  Micro-F1_mean: 0.5640 var: 0.0056 auc 0.7438
+Total time:  1166 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 9
+Using CUDA
+Early stopping!
+Loading 104th epoch
+	[Classification] Macro-F1_mean: 0.5094 var: 0.0045  Micro-F1_mean: 0.5126 var: 0.0063 auc 0.7100
+	[Classification] Macro-F1_mean: 0.5407 var: 0.0057  Micro-F1_mean: 0.5412 var: 0.0060 auc 0.7370
+	[Classification] Macro-F1_mean: 0.5526 var: 0.0052  Micro-F1_mean: 0.5539 var: 0.0053 auc 0.7403
+Total time:  1058 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 10
+Using CUDA
+Early stopping!
+Loading 192th epoch
+	[Classification] Macro-F1_mean: 0.5001 var: 0.0092  Micro-F1_mean: 0.5034 var: 0.0092 auc 0.6984
+	[Classification] Macro-F1_mean: 0.5500 var: 0.0043  Micro-F1_mean: 0.5513 var: 0.0043 auc 0.7371
+	[Classification] Macro-F1_mean: 0.5521 var: 0.0042  Micro-F1_mean: 0.5548 var: 0.0043 auc 0.7368
+Total time:  1669 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 15
+Using CUDA
+Early stopping!
+Loading 90th epoch
+	[Classification] Macro-F1_mean: 0.5270 var: 0.0103  Micro-F1_mean: 0.5314 var: 0.0106 auc 0.7213
+	[Classification] Macro-F1_mean: 0.5645 var: 0.0087  Micro-F1_mean: 0.5641 var: 0.0086 auc 0.7513
+	[Classification] Macro-F1_mean: 0.5707 var: 0.0035  Micro-F1_mean: 0.5725 var: 0.0055 auc 0.7493
+Total time:  978 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 20
+Using CUDA
+Early stopping!
+Loading 87th epoch
+	[Classification] Macro-F1_mean: 0.5431 var: 0.0035  Micro-F1_mean: 0.5447 var: 0.0054 auc 0.7245
+	[Classification] Macro-F1_mean: 0.5632 var: 0.0075  Micro-F1_mean: 0.5638 var: 0.0074 auc 0.7495
+	[Classification] Macro-F1_mean: 0.5715 var: 0.0063  Micro-F1_mean: 0.5706 var: 0.0079 auc 0.7513
+Total time:  988 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 25
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5464 var: 0.0037  Micro-F1_mean: 0.5497 var: 0.0041 auc 0.7287
+	[Classification] Macro-F1_mean: 0.5605 var: 0.0062  Micro-F1_mean: 0.5597 var: 0.0080 auc 0.7439
+	[Classification] Macro-F1_mean: 0.5665 var: 0.0060  Micro-F1_mean: 0.5649 var: 0.0067 auc 0.7481
+Total time:  1003 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 30
+Using CUDA
+Early stopping!
+Loading 106th epoch
+	[Classification] Macro-F1_mean: 0.5496 var: 0.0065  Micro-F1_mean: 0.5485 var: 0.0091 auc 0.7307
+	[Classification] Macro-F1_mean: 0.5560 var: 0.0034  Micro-F1_mean: 0.5550 var: 0.0042 auc 0.7419
+	[Classification] Macro-F1_mean: 0.5638 var: 0.0042  Micro-F1_mean: 0.5630 var: 0.0062 auc 0.7470
+Total time:  1085 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 35
+Using CUDA
+Early stopping!
+Loading 109th epoch
+	[Classification] Macro-F1_mean: 0.5412 var: 0.0047  Micro-F1_mean: 0.5420 var: 0.0087 auc 0.7269
+	[Classification] Macro-F1_mean: 0.5557 var: 0.0033  Micro-F1_mean: 0.5562 var: 0.0043 auc 0.7389
+	[Classification] Macro-F1_mean: 0.5656 var: 0.0049  Micro-F1_mean: 0.5664 var: 0.0057 auc 0.7437
+Total time:  1108 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 40
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5414 var: 0.0061  Micro-F1_mean: 0.5421 var: 0.0082 auc 0.7262
+	[Classification] Macro-F1_mean: 0.5479 var: 0.0032  Micro-F1_mean: 0.5511 var: 0.0030 auc 0.7385
+	[Classification] Macro-F1_mean: 0.5565 var: 0.0042  Micro-F1_mean: 0.5581 var: 0.0067 auc 0.7432
+Total time:  982 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 45
+Using CUDA
+Early stopping!
+Loading 98th epoch
+	[Classification] Macro-F1_mean: 0.5403 var: 0.0041  Micro-F1_mean: 0.5423 var: 0.0081 auc 0.7262
+	[Classification] Macro-F1_mean: 0.5453 var: 0.0025  Micro-F1_mean: 0.5487 var: 0.0024 auc 0.7372
+	[Classification] Macro-F1_mean: 0.5551 var: 0.0033  Micro-F1_mean: 0.5590 var: 0.0036 auc 0.7434
+Total time:  1013 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 50
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5403 var: 0.0035  Micro-F1_mean: 0.5444 var: 0.0051 auc 0.7276
+	[Classification] Macro-F1_mean: 0.5461 var: 0.0023  Micro-F1_mean: 0.5501 var: 0.0034 auc 0.7363
+	[Classification] Macro-F1_mean: 0.5571 var: 0.0047  Micro-F1_mean: 0.5600 var: 0.0054 auc 0.7432
+Total time:  1027 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 55
+Using CUDA
+Early stopping!
+Loading 95th epoch
+	[Classification] Macro-F1_mean: 0.5433 var: 0.0027  Micro-F1_mean: 0.5473 var: 0.0041 auc 0.7296
+	[Classification] Macro-F1_mean: 0.5479 var: 0.0026  Micro-F1_mean: 0.5508 var: 0.0026 auc 0.7369
+	[Classification] Macro-F1_mean: 0.5581 var: 0.0038  Micro-F1_mean: 0.5601 var: 0.0059 auc 0.7434
+Total time:  991 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 60
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5422 var: 0.0031  Micro-F1_mean: 0.5465 var: 0.0039 auc 0.7281
+	[Classification] Macro-F1_mean: 0.5483 var: 0.0032  Micro-F1_mean: 0.5512 var: 0.0035 auc 0.7353
+	[Classification] Macro-F1_mean: 0.5531 var: 0.0041  Micro-F1_mean: 0.5558 var: 0.0041 auc 0.7415
+Total time:  1035 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 65
+Using CUDA
+Early stopping!
+Loading 95th epoch
+	[Classification] Macro-F1_mean: 0.5410 var: 0.0034  Micro-F1_mean: 0.5447 var: 0.0048 auc 0.7280
+	[Classification] Macro-F1_mean: 0.5498 var: 0.0026  Micro-F1_mean: 0.5526 var: 0.0035 auc 0.7360
+	[Classification] Macro-F1_mean: 0.5567 var: 0.0030  Micro-F1_mean: 0.5603 var: 0.0034 auc 0.7440
+Total time:  1022 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 70
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5390 var: 0.0037  Micro-F1_mean: 0.5420 var: 0.0063 auc 0.7262
+	[Classification] Macro-F1_mean: 0.5476 var: 0.0026  Micro-F1_mean: 0.5512 var: 0.0024 auc 0.7358
+	[Classification] Macro-F1_mean: 0.5531 var: 0.0038  Micro-F1_mean: 0.5558 var: 0.0045 auc 0.7412
+Total time:  1006 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 75
+Using CUDA
+Early stopping!
+Loading 90th epoch
+	[Classification] Macro-F1_mean: 0.5360 var: 0.0043  Micro-F1_mean: 0.5407 var: 0.0056 auc 0.7251
+	[Classification] Macro-F1_mean: 0.5451 var: 0.0030  Micro-F1_mean: 0.5489 var: 0.0034 auc 0.7354
+	[Classification] Macro-F1_mean: 0.5580 var: 0.0034  Micro-F1_mean: 0.5609 var: 0.0042 auc 0.7439
+Total time:  975 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 80
+Using CUDA
+Early stopping!
+Loading 85th epoch
+	[Classification] Macro-F1_mean: 0.5348 var: 0.0061  Micro-F1_mean: 0.5403 var: 0.0055 auc 0.7249
+	[Classification] Macro-F1_mean: 0.5447 var: 0.0031  Micro-F1_mean: 0.5490 var: 0.0028 auc 0.7350
+	[Classification] Macro-F1_mean: 0.5581 var: 0.0063  Micro-F1_mean: 0.5609 var: 0.0063 auc 0.7442
+Total time:  968 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 85
+Using CUDA
+Early stopping!
+Loading 85th epoch
+	[Classification] Macro-F1_mean: 0.5351 var: 0.0059  Micro-F1_mean: 0.5397 var: 0.0044 auc 0.7244
+	[Classification] Macro-F1_mean: 0.5460 var: 0.0034  Micro-F1_mean: 0.5497 var: 0.0043 auc 0.7349
+	[Classification] Macro-F1_mean: 0.5582 var: 0.0051  Micro-F1_mean: 0.5606 var: 0.0069 auc 0.7444
+Total time:  949 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 90
+Using CUDA
+Early stopping!
+Loading 93th epoch
+	[Classification] Macro-F1_mean: 0.5387 var: 0.0034  Micro-F1_mean: 0.5426 var: 0.0044 auc 0.7269
+	[Classification] Macro-F1_mean: 0.5455 var: 0.0035  Micro-F1_mean: 0.5479 var: 0.0037 auc 0.7350
+	[Classification] Macro-F1_mean: 0.5577 var: 0.0031  Micro-F1_mean: 0.5607 var: 0.0025 auc 0.7437
+Total time:  1033 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 95
+Using CUDA
+Early stopping!
+Loading 84th epoch
+	[Classification] Macro-F1_mean: 0.5333 var: 0.0042  Micro-F1_mean: 0.5387 var: 0.0035 auc 0.7245
+	[Classification] Macro-F1_mean: 0.5438 var: 0.0031  Micro-F1_mean: 0.5474 var: 0.0036 auc 0.7342
+	[Classification] Macro-F1_mean: 0.5531 var: 0.0063  Micro-F1_mean: 0.5555 var: 0.0072 auc 0.7433
+Total time:  959 s
+seed  53
+Dataset:  imdb
+The number of meta-paths:  3
+Hyperparameter:  2.0 100
+Using CUDA
+Early stopping!
+Loading 84th epoch
+	[Classification] Macro-F1_mean: 0.5339 var: 0.0027  Micro-F1_mean: 0.5384 var: 0.0035 auc 0.7245
+	[Classification] Macro-F1_mean: 0.5445 var: 0.0043  Micro-F1_mean: 0.5479 var: 0.0046 auc 0.7339
+	[Classification] Macro-F1_mean: 0.5524 var: 0.0067  Micro-F1_mean: 0.5557 var: 0.0059 auc 0.7435
+Total time:  953 s
