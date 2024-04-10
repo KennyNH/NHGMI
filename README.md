@@ -1,11 +1,8 @@
 # NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
 
 ## Environment Settings
-> python\
-> scipy\
 > torch\
-> numpy\
-> scikit_learn
+
 
 ## Data Preparation
 Baidu Netdisk
