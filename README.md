@@ -1,8 +1,7 @@
 # NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
 
 ## Environment Settings
-> torch\
-
+> torch
 
 ## Data Preparation
 Baidu Netdisk
